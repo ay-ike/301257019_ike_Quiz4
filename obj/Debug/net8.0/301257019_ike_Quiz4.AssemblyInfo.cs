@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("301257019_ike_Quiz4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c4729d38dc2d9ac53e29868d66335defaaf7bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("301257019_ike_Quiz4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("301257019_ike_Quiz4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
